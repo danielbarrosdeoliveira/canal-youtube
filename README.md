@@ -18,7 +18,7 @@ Estamos gravando as aulas na conforme disponibilidade de tempo, pois trabalho em
 
 ## 🤝 Colaboradores
 
-Aqui aparecerá o nome das pessoas que contribuiram financeiramente, através de compra de livros no noss link, ver a seção de `Apoio e Doação`.
+Aqui vamos expor o nome das pessoas que quiserem, e que contribuiram financeiramente com o projeto, seja através de compra de livros no nosso link, ou pix, para mais informações ver a seção abaixo.
 
 ## 🤑 Apoie o Projeto
 
