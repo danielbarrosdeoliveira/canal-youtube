@@ -18,11 +18,11 @@ Estamos gravando as aulas na conforme disponibilidade de tempo, pois trabalho em
 
 ## 🤝 Colaboradores
 
-Aqui vamos expor o nome das pessoas que quiserem, e que contribuiram financeiramente com o projeto, seja através de compra de livros no nosso link, ou pix, para mais informações ver a seção abaixo.
+Aqui aparecerá o nome das pessoas que contribuiram financeiramente, através de compra de livros no nosso link, ou através do PIX, ver a seção de `Apoie o Projeto`.
 
 ## 🤑 Apoie o Projeto
 
-Na compra de um livro ou curso no link abaixo, você estará contribuindo com o canal Daniel Oliveira Dev, motivando a continuar esse projeto, e investir em equipamentos para melhorar a qualidade da gravação dos vídeos, e como consequência melhorando o canal.
+Na compra de um livro ou curso no link abaixo, você contribui com o canal Daniel Oliveira Dev, motivando, e possibilitando investir em equipamentos para melhorar a qualidade da gravação dos vídeos, e como consequência melhorando o canal.
 
 https://linktr.ee/danieloliveira_dev
 
